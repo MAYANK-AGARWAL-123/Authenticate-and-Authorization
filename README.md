@@ -1,5 +1,6 @@
 
 🔐 Authenticate and Authorization
+
 This project is a simple web application that demonstrates user authentication and authorization using Firebase. It allows users to register, log in, and access a protected dashboard. The application is built using HTML, CSS, and JavaScript, with Firebase handling the backend authentication processes.
 
 📁 Project Structure
@@ -16,6 +17,7 @@ Authenticate-and-Authorization/
 ├── register.js
 ├── login.js
 ├── dashboard.js
+
 🚀 Features
 User Registration: New users can create an account using their email and password.
 
